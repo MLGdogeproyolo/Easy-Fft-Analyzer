@@ -1,0 +1,10 @@
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\bin\Debug\bass.dll
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\bin\Debug\basswasapi.dll
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\bin\Debug\EasyFftAnalyzer.dll
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\bin\Debug\EasyFftAnalyzer.pdb
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\bin\Debug\Bass.Net.dll
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\obj\Debug\EasyFftAnalyzer.csproj.AssemblyReference.cache
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\obj\Debug\EasyFftAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\obj\Debug\EasyFftA.9BEA4841.Up2Date
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\obj\Debug\EasyFftAnalyzer.dll
+C:\Users\DogeComputer\Desktop\Desktop\Code\EasyFftAnalyzer\EasyFftAnalyzer\obj\Debug\EasyFftAnalyzer.pdb
